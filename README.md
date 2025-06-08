@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Tabrez this side..</h1>
+<h1 align="center">Hello World! Tabrez this side.</h1>
 <h3 align="center">I’m currently learning Full Stack Web Development</h3>
 
 
