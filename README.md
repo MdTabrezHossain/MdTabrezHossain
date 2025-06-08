@@ -1,7 +1,5 @@
-<h1 align="center">Heyyy! 👋, I'm Tabrez</h1>
-<h3 align="center">Currently pursuing B.Tech in Information Technology</h3>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
+<h1 align="center">Hello World! I'm Tabrez</h1>
+<h3 align="center">I’m currently learning **Full Stack Web Development**</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
